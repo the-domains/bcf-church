@@ -1,0 +1,28 @@
+name: BCF Church
+favicon: null
+layout_spectrum: 0.9527118448168039
+typography_spectrum: 0.3347318915184587
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.20596052380278707
+  lightness: 0.33230157871730626
+  saturation: 0.2570798899978399
+  rhythmicContrast: 0.970117332180962
+purpose: []
