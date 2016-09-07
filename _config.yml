@@ -28,6 +28,9 @@ navigation:
   - name: About Us
     url: 'http://bcfchurch.net/about.html'
     type: external
+  - name: '"What''s APP"'
+    url: 'http://subsplash.com/bcf_online'
+    type: external
 favicon: null
 title: BCF Church
 purpose: []
